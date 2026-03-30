@@ -1,1 +1,7 @@
-console.log('Hello world')
+
+function manish(){
+    abc = 5;
+    return abc;
+}
+
+manish();
